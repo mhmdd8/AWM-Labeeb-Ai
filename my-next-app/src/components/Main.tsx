@@ -23,7 +23,7 @@ import {
   Filler,
 } from "chart.js";
 import Nav from "./Nav";
-import Footer from "./ui/Footer";
+import Footer from "./Footer";
 
 ChartJS.register(
   CategoryScale,
