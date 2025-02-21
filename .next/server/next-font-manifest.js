@@ -1,1 +1,1 @@
-self.__NEXT_FONT_MANIFEST="{\"pages\":{},\"app\":{\"/Users/mhmd/Documents/GitHub/AWM-datathon/src/app/layout\":[\"static/media/029616a09f89e9be-s.p.woff2\",\"static/media/5b5924403aa3f821-s.p.woff2\",\"static/media/d3c939daec3cf0fb-s.p.woff2\",\"static/media/24803c66df11f210-s.p.woff2\"]},\"appUsingSizeAdjust\":true,\"pagesUsingSizeAdjust\":false}"
+self.__NEXT_FONT_MANIFEST="{\"pages\":{},\"app\":{},\"appUsingSizeAdjust\":false,\"pagesUsingSizeAdjust\":false}"
